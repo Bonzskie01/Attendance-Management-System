@@ -1,0 +1,8 @@
+{
+  "name": "event-attendance-management-system",
+  "version": "1.0.0",
+  "description": "Event Attendance Monitoring System",
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}
